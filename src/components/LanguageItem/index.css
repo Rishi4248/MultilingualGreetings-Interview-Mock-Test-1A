@@ -1,0 +1,23 @@
+.li-container {
+  list-style-type: none;
+  margin-right: 40px;
+}
+.buttons {
+  font-family: 'Roboto';
+  border: 1px solid #db1c48;
+  border-radius: 20px;
+  padding: 10px;
+  height: 40px;
+  width: 100px;
+  text-align: center;
+  cursor: pointer;
+  margin: 10px;
+}
+.not-highlighted {
+  background-color: white;
+  color: #db1c48;
+}
+.highlighted {
+  color: white;
+  background-color: #db1c48;
+}
